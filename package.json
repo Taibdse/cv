@@ -1,0 +1,17 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "deploy": "gh pages -d dist"
+  },
+  "keywords": [],
+  "author": "Bui Duc Tai",
+  "homepage": "https://Taibdse.github.io/profileCV",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
